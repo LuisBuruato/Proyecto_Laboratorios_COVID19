@@ -21,6 +21,7 @@ d)Filtra los datos en fechas mayores a 2021-01-01.
 
 ##e) Compara a nivel de país para llenar valores faltantes.
 Al filtrar los datos seleccionando la variable “location_key” quedan 7,692048 filas y 50 columnas.
+
 ![Picture5](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture5.png) 
   
 
