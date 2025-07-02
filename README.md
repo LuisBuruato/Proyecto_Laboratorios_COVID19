@@ -65,6 +65,7 @@ j)¿Qué implican estas métricas y cómo pueden ayudar en el análisis de datos
 Las métricas nos ayudan a consolidar las mediciones en los diversos pasos del analisis para le gestión de la calidad de los datos.
 *¿Se muestran todas las estadísticas en todas las columnas durante el análisis?
 En el siguiente pantallazo podemos ver las estadísticas que no genera pandas.
+
 ![Picture9](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture9.png)
 
 
