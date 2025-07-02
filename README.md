@@ -89,6 +89,9 @@ a) Gráficos de barras de países contra el resto de las variables. En el siguie
 
 ![Picture12](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture12.png)
 
+b) Matriz de correlación, trata de crear una submascara para solo tomar una parte del gráfico y filtrar por los valores mayores a 0.5.      En la siguiente grafica podemos observar la correlación de las variables numéricas > .5 y  > -.5. Este análisis nos ayudo a seleccionar las variables mas representativas.                                                                                                                        
+![Picture13](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture13.png) 
+
 
 
 
