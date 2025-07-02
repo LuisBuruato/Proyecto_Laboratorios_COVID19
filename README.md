@@ -54,6 +54,8 @@ Se guardan los datos filtrados en la carpeta del proyecto.
 i)Aplica bucles for y/o while para el cálculo de estadísticas descriptivas y otras métricas importantes que ofrece pandas por default.
 Utilizando for generamos el siguiente bucle:
 
+![Picture8](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture8.png) 
+
 
 
       
