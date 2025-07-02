@@ -22,12 +22,12 @@ d)Filtra los datos en fechas mayores a 2021-01-01.
 ##e) Compara a nivel de país para llenar valores faltantes.
 Al filtrar los datos seleccionando la variable “location_key” quedan 7,692048 filas y 50 columnas.
 
-![Picture5](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture5.png) 
+  ![Picture4](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture4.png) 
 
 ##f) Realiza una limpieza preliminar de los datos, eliminando registros nulos y corrigiendo los tipos de datos donde sea necesario, trata con valores medios, valores anteriores o valores siguientes.
 Se eliminan valores nulos con el siguiente código. Quedando 3744 filas y 50 columnas.
 
-![Picture6](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture6.png) 
+![Picture5](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture5.png) 
 
 ##g) Examina las características básicas del dataset para comprender la distribución de las variables clave como incidencia de COVID-19 e identifica las variables que consideras que son claves para tu análisis.
 De acuerdo al análisis anterior y revisando la matriz de correlación se identifican las siguientes variables como las más representativas:
@@ -50,7 +50,9 @@ De acuerdo al análisis anterior y revisando la matriz de correlación se identi
 ##h) Guarda los datos filtrados en un archivo con el nombre DatosFinalesFiltrado.csv a fin de poder utilizarlo luego y no tener que repetir el proceso de filtrado y limpieza.
 Se guardan los datos filtrados en la carpeta del proyecto.
 
-![Picture7](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture7.png)
+![Picture6](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture6.png) 
+
+
       
 
 
