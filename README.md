@@ -122,6 +122,11 @@ h) Genera gráficas acordes a tu análisis. Se muestra el grafico PairPlot para 
    
 ![Picture18](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture18.png) 
 
+i)Evolución Semanal de Casos Nuevos. Se muestra la tendencia de los datos utilizando la    variable: “new_confirmed” de los nuevos casos confirmados por semana. 
+					i.1
+
+![Picture19](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture19.png) 
+
 
 
 
