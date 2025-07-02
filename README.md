@@ -133,6 +133,49 @@ j) Variación Mensual de Casos y Muertes. En el grafico se muestra la tendencia 
 ![Picture20](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture20.png) 
 
 
+4.-ANALISIS GENERAL DE GRAFICOS.
+En los gráficos podemos analizar las relaciones entre variables y la distribución de los datos.  Por ejemplo, en el grafico b.1 (matriz de correlación de todas las variables numéricas). Podemos ver cuales son las variables que tienen un valor >.5   y tomar estas como variables representativas. En el grafico c.1 observamos la relación entre la temperatura de cada país y el numero de casos confirmados. De este análisis deducimos que el país con temperaturas mas altas que en este caso es Brasil se presentan más casos de COVID-19. En el grafico e.1 analizamos que el País con mayor numero de dosis administradas es Brasil. Esto se correlaciona con las temperaturas elevadas que predecimos que el virus del COVID-19 se propaga más fácilmente con temperaturas mas calientes. En el grafico de Violín (f1) podemos observar también como el “Indice de Desarrollo Humano” y el “Producto Interno Bruto Total (valor de todos los servicios y bienes producidos en un año) “  son casi iguales en todos los países a comparación con los casos de fallecimiento que es mayor. En la grafica superior j.1 observamos los casos por mes del año 2021 al 2022 deduciendo que los casos de fallecimiento se mantuvieron en un nivel inferior o en algunos meses no se presentaron casos de fallecimiento. 
+
+
+
+
+
+
+5.-RESULTADOS PRINCIPALES Y LINEAS FUTURAS DE ANALISIS.
+De acuerdo con el análisis elaborado con el soporte de los gráficos y métricas construidas. Se recomienda la ubicación de un laboratorio que puede suministrar las vacunas al área urbana principalmente porque es donde se presentan más casos acumulados confirmados, pero tomando en cuenta que también se deben distribuir en el área rural. Por otro lado, nos vamos en enfocar en Brasil que es donde se han administrado el mayor numero de dosis. Esto puede ser por tener las más altas temperaturas en diferentes áreas del País. Para el año 2021 en Brasil se suministraron la cantidad de 300303775 dosis. Un laboratorio puede producir en promedio 10,000,000 de dosis al año. Tenemos la siguiente predicción:
+
+
+    
+ Laboratorios con capacidad de 10 millones de dosis anuales												
+														
+Si cada laboratorio tiene una capacidad de producción de 10 millones de dosis al año,
+ el número de laboratorios necesarios para cubrir esa demanda sería:										
+														
+300,303,775 dosis a 10,000,000 dosis por laboratorio≈30 laboratorios
+
+{300,303,775 /10,000,000 / (dosis por laboratorio) = approx 30
+														
+En este caso, se necesitarían 30 laboratorios con una capacidad de producción de 10 millones de dosis cada uno.
+
+											
+			
+Factores que afectan la capacidad de producción de vacunas:
+
+1. Escalabilidad de la tecnología: Algunas tecnologías, como el ARN mensajero, requieren más infraestructura especializada y tiempo para escalar en comparación con las vacunas basadas en proteínas o vectores virales.
+2. Suministro de materias primas: La capacidad de producción también depende de la disponibilidad de insumos clave como los lípidos para las vacunas ARNm, las proteínas recombinantes, y otros reactivos.
+3. Colaboraciones y subcontratación: Los fabricantes de vacunas a menudo colaboran con otros laboratorios y fabricantes para aumentar la producción, como lo hizo Pfizer con BioNTech y AstraZeneca con varias entidades de fabricación en todo el mundo.
+4. Regulaciones y capacidad de distribución: La producción también depende de las regulaciones locales e internacionales, las capacidades de distribución global, y las certificaciones sanitarias requeridas.
+
+Dado que la producción de vacunas contra la COVID-19 ha sido centralizada principalmente en Fiocruz y Butantan, el número total de "laboratorios" para fabricar vacunas sería relativamente bajo. Sin embargo, si consideramos las plantas de producción de estas dos instituciones, podemos hacer algunas estimaciones:
+Fiocruz tiene varias plantas de producción, y su capacidad máxima en 2021 fue de aproximadamente 100 millones de dosis por año. La planta de producción en Manguinhos, Río de Janeiro, fue una de las principales instalaciones para la producción de la vacuna AstraZeneca.
+Instituto Butantan también tiene instalaciones de producción, principalmente en São Paulo, y produjo 100 millones de dosis de CoronaVac en 2021.
+Factores para considerar:
+
+Capacidad de producción: La capacidad de producción de cada laboratorio puede variar según la infraestructura y los recursos disponibles, así como la demanda interna y externa de vacunas.
+Alianzas internacionales: Brasil ha firmado acuerdos con fabricantes internacionales, como AstraZeneca/Oxford y Sinovac, para aumentar su capacidad de fabricación local.
+En general, Fiocruz y Butantan son los dos principales actores en la producción de vacunas contra la COVID-19 en Brasil. Si tienes más detalles específicos sobre los laboratorios o las plantas de producción que te interesan, podría darte más información sobre sus capacidades y funciones específicas.
+  
+
 
 
       
