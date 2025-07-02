@@ -108,7 +108,7 @@ e) Dosis administradas por país ( BoxPlot). En el siguiente diagrama podemos ve
 
 f) Violinplot de las variables “human_development_index”,gdp_usd y cumulative_deceased para todos los países.
 					f.1
-![Picture17](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture17.png) 
+![Picture16](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture16.png) 
 
 
 
