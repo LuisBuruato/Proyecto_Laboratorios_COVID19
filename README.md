@@ -23,6 +23,45 @@ d)Filtra los datos en fechas mayores a 2021-01-01.
 Al filtrar los datos seleccionando la variable “location_key” quedan 7,692048 filas y 50 columnas.
 
 ![Picture5](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture5.png) 
+
+##f) Realiza una limpieza preliminar de los datos, eliminando registros nulos y corrigiendo los tipos de datos donde sea necesario, trata con valores medios, valores anteriores o valores siguientes.
+Se eliminan valores nulos con el siguiente código. Quedando 3744 filas y 50 columnas.
+
+![Picture6](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture6.png) 
+
+##g) Examina las características básicas del dataset para comprender la distribución de las variables clave como incidencia de COVID-19 e identifica las variables que consideras que son claves para tu análisis.
+De acuerdo al análisis anterior y revisando la matriz de correlación se identifican las siguientes variables como las más representativas:
+['location_key', 'date', 'country_code', 'country_name', 'new_confirmed',
+       'new_deceased', 'cumulative_confirmed', 'cumulative_deceased',
+       'cumulative_vaccine_doses_administered', 'population',
+       'population_male', 'population_female', 'population_rural',
+       'population_urban', 'population_density', 'human_development_index',
+       'population_age_00_09', 'population_age_10_19', 'population_age_20_29',
+       'population_age_30_39', 'population_age_40_49', 'population_age_50_59',
+       'population_age_60_69', 'population_age_70_79',
+       'population_age_80_and_older', 'gdp_usd', 'gdp_per_capita_usd',
+       'latitude', 'longitude', 'area_sq_km', 
+       , 'average_temperature_celsius',
+       'minimum_temperature_celsius', 'maximum_temperature_celsius',
+       'rainfall_mm', 'relative_humidity', 'population_largest_city',
+       'area_rural_sq_km', 'area_urban_sq_km', 
+       'new_recovered', 'cumulative_recovered'],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
 
 
