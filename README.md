@@ -1,35 +1,34 @@
 # DESARROLLO DEL PROYECTO
 
-## 1.- AVANCE 1
+ 1.- AVANCE 1
 
 a) Lee el archivo data_latinoamerica.csv con código Python en tu Visual Studio Code.  
 Se importa pandas y se lee el archivo como pd.read_csv.
 ![Picture1](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture1.png)
 
-## b) Comprueba que el dataset cargado tiene la cantidad de registros y columnas especificadas.
+ b) Comprueba que el dataset cargado tiene la cantidad de registros y columnas especificadas.
 El dataset original tiene un total de 12,216,057 filas y 50 columnas.
 ![Picture2](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture2.png) 
 
-##c) Selecciona los países donde se expandirán: Colombia, Argentina, Chile, México, Perú y Brasil.
+c) Selecciona los países donde se expandirán: Colombia, Argentina, Chile, México, Perú y Brasil.
 Se filtran los países tomando la variable “location key” como referencia ya que es la que esta normalizada.
 ![Picture3](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture3.png)
 
-##
 d)Filtra los datos en fechas mayores a 2021-01-01.
   Se filtran los datos con df_filtrado para obtener fechas mayores a 2021-01-01.
   
 
-##e) Compara a nivel de país para llenar valores faltantes.
+e) Compara a nivel de país para llenar valores faltantes.
 Al filtrar los datos seleccionando la variable “location_key” quedan 7,692048 filas y 50 columnas.
 
   ![Picture4](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture4.png) 
 
-##f) Realiza una limpieza preliminar de los datos, eliminando registros nulos y corrigiendo los tipos de datos donde sea necesario, trata con valores medios, valores anteriores o valores siguientes.
+f) Realiza una limpieza preliminar de los datos, eliminando registros nulos y corrigiendo los tipos de datos donde sea necesario, trata con valores medios, valores anteriores o valores siguientes.
 Se eliminan valores nulos con el siguiente código. Quedando 3744 filas y 50 columnas.
 
 ![Picture5](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture5.png) 
 
-##g) Examina las características básicas del dataset para comprender la distribución de las variables clave como incidencia de COVID-19 e identifica las variables que consideras que son claves para tu análisis.
+g) Examina las características básicas del dataset para comprender la distribución de las variables clave como incidencia de COVID-19 e identifica las variables que consideras que son claves para tu análisis.
 De acuerdo al análisis anterior y revisando la matriz de correlación se identifican las siguientes variables como las más representativas:
 ['location_key', 'date', 'country_code', 'country_name', 'new_confirmed',
        'new_deceased', 'cumulative_confirmed', 'cumulative_deceased',
@@ -47,7 +46,7 @@ De acuerdo al análisis anterior y revisando la matriz de correlación se identi
        'area_rural_sq_km', 'area_urban_sq_km', 
        'new_recovered', 'cumulative_recovered'],
 
-##h) Guarda los datos filtrados en un archivo con el nombre DatosFinalesFiltrado.csv a fin de poder utilizarlo luego y no tener que repetir el proceso de filtrado y limpieza.
+h) Guarda los datos filtrados en un archivo con el nombre DatosFinalesFiltrado.csv a fin de poder utilizarlo luego y no tener que repetir el proceso de filtrado y limpieza.
 Se guardan los datos filtrados en la carpeta del proyecto.
 
 ![Picture6](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture6.png) 
