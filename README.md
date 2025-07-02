@@ -97,6 +97,11 @@ c)Diagrama de dispersión de la temperatura media contra los casos confirmados. 
 ![Picture14](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture14.png)
 
 
+d)Diagrama de dispersión de la temperatura media contra las muertes confirmadas. En el siguiente diagrama podemos ver la distribución de los datos para las variables: “average_temperature_celcius” y “new_deceased”. 
+						d.1
+![Picture15](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture15.png) 
+
+
 
 
 
