@@ -102,6 +102,11 @@ d)Diagrama de dispersión de la temperatura media contra las muertes confirmadas
 ![Picture15](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture15.png) 
 
 
+e) Dosis administradas por país ( BoxPlot). En el siguiente diagrama podemos ver la distribución de los datos para la variable: “cumulative_vaccine_doses_administered”.
+
+![Picture16](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture16.png) 
+
+
 
 
 
