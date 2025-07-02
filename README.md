@@ -47,6 +47,12 @@ De acuerdo al análisis anterior y revisando la matriz de correlación se identi
        'area_rural_sq_km', 'area_urban_sq_km', 
        'new_recovered', 'cumulative_recovered'],
 
+##h) Guarda los datos filtrados en un archivo con el nombre DatosFinalesFiltrado.csv a fin de poder utilizarlo luego y no tener que repetir el proceso de filtrado y limpieza.
+Se guardan los datos filtrados en la carpeta del proyecto.
+
+![Picture7](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture7.png)
+      
+
 
 
 
