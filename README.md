@@ -83,6 +83,12 @@ mediana? En el siguiente grafico de Gauss podemos ver la distribución de los da
 
 ![Picture11](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture11.png) 
 
+2.- AVANCE 2 
+Las visualizaciones que puedes realizar son:
+a) Gráficos de barras de países contra el resto de las variables. En el siguiente grafico se muestran todas variables de forma independiente en el histograma de frecuencia.
+
+![Picture12](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture12.png)
+
 
 
 
