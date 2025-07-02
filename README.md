@@ -108,7 +108,11 @@ e) Dosis administradas por país ( BoxPlot). En el siguiente diagrama podemos ve
 
 f) Violinplot de las variables “human_development_index”,gdp_usd y cumulative_deceased para todos los países.
 					f.1
-![Picture16](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture16.png) 
+
+
+g) Mapa de calor para mostar la correlación de variables.En este diagrama se observa la correlación de las variables: “population_urban”,“population_urban”,“cumulative_vaccine_doses_administered”
+
+![Picture17](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture17.png)
 
 
 
