@@ -116,6 +116,13 @@ g) Mapa de calor para mostar la correlación de variables.En este diagrama se ob
 
 
 
+3. AVANCE 3
+h) Genera gráficas acordes a tu análisis. Se muestra el grafico PairPlot para la distribución de los datos de las variables: “ human_development_index”, “gdp_usd” y “gdp_per_capita_usd”.
+					h.1
+![Picture18](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture18.png) 
+
+
+
 
       
 
