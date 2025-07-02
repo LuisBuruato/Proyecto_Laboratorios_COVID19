@@ -78,6 +78,11 @@ k)Cómo varía la dispersión de los datos en el conjunto de datos analizado, en
 
 ![Picture10](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture10.png) 
 
+¿Qué nos puede indicar esto sobre la consistencia o la variabilidad de los datos en relación con la 
+mediana? En el siguiente grafico de Gauss podemos ver la distribución de los datos para la variable “new_deceased” para Brasil.
+
+![Picture11](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture11.png) 
+
 
 
 
