@@ -127,6 +127,11 @@ i)Evolución Semanal de Casos Nuevos. Se muestra la tendencia de los datos utili
 
 ![Picture19](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture19.png) 
 
+j) Variación Mensual de Casos y Muertes. En el grafico se muestra la tendencia de los datos para las variables: “new_confirmed” y “new_deceased” en la que se observan los nuevos casos de COVID-19 y las muertes confirmadas.
+					j.1
+     
+![Picture20](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture20.png) 
+
 
 
 
