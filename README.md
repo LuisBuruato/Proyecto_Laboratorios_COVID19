@@ -68,6 +68,17 @@ En el siguiente pantallazo podemos ver las estadísticas que no genera pandas.
 
 ![Picture9](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture9.png)
 
+Crea una función que permita obtener la mediana, varianza y el rango. Te dejamos algunas preguntas para analizar esas medidas:
+
+¿Qué representa la mediana?
+Es el numero intermedio de un grupo de números. Mide la tendencia central, que es la ubicación del centro de un grupo de números en una distribución estadística.
+
+
+k)Cómo varía la dispersión de los datos en el conjunto de datos analizado, en términos de la varianza y el rango? En el siguiente grafico de Gauss podemos ver la distribución de los datos para la variable “new_confirmed” para Brasil.
+
+![Picture10](Desktop/PROYECTO_LABORATORIOS_COVID19/IMAGENES/Picture10.png) 
+
+
 
 
 
